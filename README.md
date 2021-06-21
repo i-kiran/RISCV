@@ -1,5 +1,7 @@
 # RISCV
 
+<used venus for writing and executing these codes>
+
 1. “PALINDROME” 
 Write a procedure to identify whether a given string is a palindrome or not. The string
 can contain aplhanumeric values too.
